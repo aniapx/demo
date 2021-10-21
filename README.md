@@ -1,4 +1,4 @@
 "# demo"
 Even newer change!
 
-Nowa zmiana.
+Jeszcze jedna zmiana. Nowa zmiana. 
